@@ -10,16 +10,16 @@
 
 <br>
 
-![](/images/closing_price.jpg)
+![NIFTY Closing Price](/images/closing_price.jpg)
 
 <br>
 
-![](/images/PE_graph.jpg)  
+![NIFTY PE graph](/images/PE_graph.jpg)  
 
 <br>
 
-![](/images/hist_div_yield.jpg)    &nbsp;  ![](/images/corr.jpg)
+![Dividend Yield Histogram](/images/hist_div_yield.jpg)    &nbsp;  ![Correlation graph](/images/corr.jpg)
 
 <br>
 
-![](/images/dist_plot.jpg)
+![Distribution Plot](/images/dist_plot.jpg)
