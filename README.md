@@ -6,7 +6,8 @@
 
 <br>
 
- ## Some highlights of the results so for....
+## Some highlights of the results so for....
+
 <br>
 
 ![](/images/closing_price.jpg)
@@ -17,7 +18,7 @@
 
 <br>
 
-![](/images/hist_div_yield.jpg)    &nbsp; ![](/images/corr.jpg)
+![](/images/hist_div_yield.jpg)    &nbsp;  ![](/images/corr.jpg)
 
 <br>
 
