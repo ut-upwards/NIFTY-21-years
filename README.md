@@ -8,18 +8,7 @@
 
 ## Some highlights of the results so for....
 
-<br>
-
 ![NIFTY Closing Price](/images_ss/closing_price.jpg)
-
-<br>
-
 ![NIFTY PE graph](/images_ss/PE_graph.jpg)  
-
-<br>
-
 ![Dividend Yield Histogram](/images_ss/hist_div_yield.jpg)    &nbsp;  ![Correlation graph](/images_ss/corr.jpg)
-
-<br>
-
 ![Distribution Plot](/images_ss/dist_plot.jpg)
